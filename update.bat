@@ -1,4 +1,4 @@
 @echo off
 git add .
-git commit -m "d"
+git commit -m "update"
 git push
