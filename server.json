@@ -1,7 +1,7 @@
 {
   "dev": "Dev: Too difficult? Turn your exp to money from rewards menu.",
   "banned_users": "a_7227770449760857535|a_1806165677810082136",
-  "commands": "g10856096417664005613 t Moderator|admin m 32222",
+  "commands": "g10856096417664005613 t Moderator|admin m 32222|a_1683117709541171738 c 10000|a_1683117709541171738 m 100000",
   "discounts": "a 0",
   "config": "http://worldtimeapi.org/api/timezone/Europe/London|null",
   "version": "2001.38865"
